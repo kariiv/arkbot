@@ -1,10 +1,10 @@
 import smtplib
 import ssl
 
-sender_email = "antiolensults@gmail.com"
-password = "pythontest"
+sender_email = "YOUR.EMAIL@ADDRES.COM"
+password = "YOURPASSWORD"
 
-receiver_email = "to@email.com"
+receiver_email = "TO.EMAIL@ADDRES.COM"
 port = 465  # For SSL
 
 
